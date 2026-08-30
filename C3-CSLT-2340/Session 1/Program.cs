@@ -1,6 +1,6 @@
 ﻿internal class Program
 {
-    private static void Main(string[] args)
+    private static void Run(string[] args)
     {
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Welcome to UEH");
