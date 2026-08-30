@@ -8,11 +8,11 @@ namespace C3_CSLT_2340.Session_2
     {
         static void ex01()
         {
-            Console.Write("Nhap vao do cua Celsius: ");
-            float Celsius = float.Parse(Console.ReadLine());//
-            float Kelvin = Celsius + 273;
-            float Fahrenheit = Celsius * 18 / 10 + 32;
-            Console.WriteLine($"{Celsius} °C = {Kelvin} °K = {Fahrenheit} °F ");
+            Console.Write("Nhap vao do cua celsius: ");
+            float celsius = float.Parse(Console.ReadLine());//
+            float kelvin = celsius + 273;
+            float fahrenheit = celsius * 18 / 10 + 32;
+            Console.WriteLine($"{celsius} °C = {kelvin} °K = {fahrenheit} °F ");
 
         }
         static void ex02()
