@@ -8,7 +8,7 @@ namespace C3_CSLT_2340.Session_2
     {
         static void ex01()
         {
-
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
         }
 
 
