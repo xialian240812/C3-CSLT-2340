@@ -25,7 +25,7 @@ namespace C3_CSLT_2340.Session_2
             Console.WriteLine($"surface = {surface}");
             Console.WriteLine($"volume = {volume}");
         }
-        public static void Main(string[] args)
+        public static void Run(string[] args)
         {
             ex01();
             ex02();
