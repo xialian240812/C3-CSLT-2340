@@ -539,7 +539,7 @@ namespace C3_CSLT_2340.Session_2
 
             Console.ReadKey();
         }
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
             ex01();
             ex02();
@@ -554,4 +554,5 @@ namespace C3_CSLT_2340.Session_2
         }
     }
 }
+
 
