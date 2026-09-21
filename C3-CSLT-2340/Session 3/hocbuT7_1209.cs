@@ -88,7 +88,7 @@ namespace C3_CSLT_2340.Session_3
             }
         }
 
-        public static void Main(string[] args)
+        public static void Main2(string[] args)
         {
             ex06();
             ex07();
