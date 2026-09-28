@@ -8,4 +8,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Session 4\Btap#6.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Session 4\Btap#6.cs" />
+  </ItemGroup>
+
 </Project>
