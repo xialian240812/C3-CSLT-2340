@@ -10,10 +10,12 @@
 
   <ItemGroup>
     <Compile Remove="Session 4\Btap#6.cs" />
+    <Compile Remove="Session 5\Btap#7.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="Session 4\Btap#6.cs" />
+    <None Include="Session 5\Btap#7.cs" />
   </ItemGroup>
 
 </Project>
